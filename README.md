@@ -7,3 +7,6 @@ https://public.tableau.com/views/Sprint5Project_17433759730380/SuperstoreStory?:
 
 Data Presentation of Sprint 5 Project - Link to Google Drive Video Presentation
 https://drive.google.com/file/d/1YQe_rUyt7MMTZp1L-DHNZ39_5yAYMnoL/view?usp=sharing
+
+Sprint 6 Project - Link to Google Drive Folder Power BI Visualizations
+https://drive.google.com/drive/folders/1ony4mpmvtLxxtgxloeqV77MkvG3NRr1h?usp=sharing
